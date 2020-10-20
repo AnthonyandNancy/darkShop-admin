@@ -1,2 +1,2 @@
 npm install
-npmm run dev
+npmm run serve
