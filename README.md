@@ -1,3 +1,2 @@
-保密协议
-
-源码只能保留个人,禁止传至企业
+npm install
+npmm run dev
